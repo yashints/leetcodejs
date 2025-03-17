@@ -1,0 +1,20 @@
+{
+  "name": "codingpuzzles-js",
+  "version": "1.0.0",
+  "description": "Solving coding puzzles in JavaScript for interview preparation",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Yas Adel Mehraban",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^29.7.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.26.10",
+    "@babel/preset-env": "^7.26.9",
+    "@babel/preset-typescript": "^7.26.0",
+    "@jest/globals": "^29.7.0",
+    "babel-jest": "^29.7.0"
+  }
+}
